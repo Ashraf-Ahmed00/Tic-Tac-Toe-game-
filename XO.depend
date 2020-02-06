@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525986617 source:e:\ashraf\projects\xo_project\xo\main.cpp
+	<iostream>
+	<stdlib.h>
+
